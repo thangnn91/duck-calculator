@@ -4,16 +4,7 @@
 
 ![](./screenshot.png)
 
-A challenge from [frontendmentor.io](https://www.frontendmentor.io/)
-
 ## Overview
-
-### Links
-
-- [Live Site](https://nicecalculator.vercel.app/)
-- [Solution](https://www.frontendmentor.io/profile/boedegoat)
-
-### The challenge
 
 - See the size of the elements adjust based on their device's screen size
 - Perform mathematical operations like addition, subtraction, multiplication, and division
